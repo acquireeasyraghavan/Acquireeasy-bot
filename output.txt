@@ -1,0 +1,1119 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Acquire.com, the #1 Startup Acquisition Marketplace
+  </title>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1" name="viewport"/>
+  <meta content="Buy and sell startups in as little as 30 days. Connect with 200k+ qualified buyers &amp; browse 1,000s of vetted listings. Free escrow, legal docs &amp; more. Join now." name="description"/>
+  <meta content="website" property="og:type"/>
+  <meta content="Acquire.com, the #1 Startup Acquisition Marketplace" property="og:site_name"/>
+  <meta content="Acquire.com, the #1 Startup Acquisition Marketplace" property="og:title">
+   <meta content="Buy and sell startups in as little as 30 days. Connect with 200k+ qualified buyers &amp; browse 1,000s of vetted listings. Free escrow, legal docs &amp; more. Join now." property="og:description"/>
+   <meta content="https://acquire.com" property="og:url"/>
+   <meta content="https://acquire.com/assets/img/main-og.dc0b51.png" property="og:image"/>
+   <meta content="1200" property="og:image:width"/>
+   <meta content="630" property="og:image:height"/>
+   <meta content="summary_large_image" name="twitter:card"/>
+   <meta content="https://acquire.com/assets/img/main-og.dc0b51.png" name="twitter:image"/>
+   <meta content="Acquire.com, the #1 Startup Acquisition Marketplace" name="twitter:title"/>
+   <meta content="Buy and sell startups in as little as 30 days. Connect with 200k+ qualified buyers &amp; browse 1,000s of vetted listings. Free escrow, legal docs &amp; more. Join now." name="twitter:description"/>
+   <link href="/assets/img/apple-touch-icon.89ca42.png" rel="apple-touch-icon" sizes="180x180"/>
+   <link href="/assets/img/favicon-32x32.587f2b.png" rel="icon" sizes="32x32" type="image/png"/>
+   <link href="/assets/img/favicon-16x16.e1dbac.png" rel="icon" sizes="16x16" type="image/png"/>
+   <link href="/assets/site.webmanifest" rel="manifest"/>
+   <link color="#5bbad5" href="/assets/img/safari-pinned-tab.ba471d.svg" rel="mask-icon"/>
+   <meta content="#603cba" name="msapplication-TileColor"/>
+   <meta content="#ffffff" name="theme-color"/>
+   <meta content="https://acquire.com/assets/img/main-og.dc0b51.png" property="og:image"/>
+   <meta content="1200" property="og:image:width"/>
+   <meta content="630" property="og:image:height"/>
+   <meta content="ts6A7Cbq0KgWgStf0PPQOvZzoh66UdpAuXQI_O_kVOI" name="google-site-verification">
+    <meta content="0sl6e41svceuvcea0w5wufrsxxn02d" name="facebook-domain-verification">
+     <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PWTLTGV');
+     </script>
+     <script>
+      !function(f,b,e,v,n,t,s)
+		{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+		n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+		if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+		n.queue=[];t=b.createElement(e);t.async=!0;
+		t.src=v;s=b.getElementsByTagName(e)[0];
+		s.parentNode.insertBefore(t,s)}(window,document,'script',
+		'https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '664023900970575');
+		fbq('track', 'PageView');
+     </script>
+     <noscript>
+      <img height="1" src="https://www.facebook.com/tr?id=664023900970575&amp;ev=PageView&amp;noscript=1" width="1"/>
+     </noscript>
+     <script id="window.appReady">
+      'use strict';var ild=!1,cbs=[],w=window,ercbs=[];w.addEventListener('load',function(){ild=!0,cbs.forEach(function(a){try{a()}catch(b){ercbs.forEach(function(d){return d(b)})}}),cbs=null}),w.appReady=function(a){a&&(ild?a():cbs.push(a))},w.appReady.addErrorHandler=function(a){ercbs.push(a)};
+     </script>
+     <style>
+      html{--css-variable-test:1}#css-variable-test{display:none;opacity:var(--css-variable-test)}body{opacity:0}
+     </style>
+     <style>
+     </style>
+    </meta>
+   </meta>
+  </meta>
+ </head>
+ <body>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PWTLTGV" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <noscript>
+   <main class="no-script" data-page-id="no-script">
+    <section class="no-script-section">
+     <div class="image-wrap">
+      <div class="block">
+      </div>
+      <div class="block-img">
+       <img alt="" src="/assets/img/img-js.3acab2.svg"/>
+      </div>
+     </div>
+     <div class="text-wrap">
+      <span class="sub-title hero-section-label">
+       No script
+      </span>
+      <h1 class="title hero-section-title">
+       JavaScript Required
+      </h1>
+      <p class="desc-1 hero-section-subtitle">
+       We’re sorry, but this website needs JavaScript enabled to run correctly. Please, turn it on and come back later. Thank you!
+      </p>
+      <div class="button-wrap">
+       <a class="button" href="/">
+        <div class="button-text">
+         Reload Page
+        </div>
+        <div class="button-arrow">
+         <img alt="arrow right" class="arrow-right" src="/assets/img/arrow-right-button.a68abe.svg"/>
+        </div>
+       </a>
+       <a class="button-text button-link" href="https://www.enablejavascript.io/en">
+        How to Enable JavaScript
+       </a>
+      </div>
+     </div>
+     <footer class="no-script-section-footer">
+      <span class="link-text2 footer-copy">
+       © Acquire.com, Inc.
+       <span>
+        2023
+       </span>
+       . All rights reserved
+      </span>
+      <ul class="sm-icons">
+       <li class="sm-icons-item">
+        <a class="sm-icons-item-link" href="https://twitter.com/acquiredotcom" target="_blank">
+         <svg fill="none" height="13" viewbox="0 0 17 13" width="17" xmlns="http://www.w3.org/2000/svg">
+          <path class="sm-icons-item-link-image-path" clip-rule="evenodd" d="m17 1.53897c-.6246.26103-1.2972.43756-2.0026.51643.7204-.40563 1.2732-1.04883 1.5336-1.815024-.6745.375586-1.4199.648826-2.2162.795304-.6346-.637558-1.5416-1.03568-2.5454-1.03568-1.92483 0-3.48643 1.46948-3.48643 3.28169 0 .25728.02994.50704.08981.74742-2.89869-.13709-5.4681-1.44226-7.18936-3.430049-.300342.486389-.471968 1.050709-.471968 1.651639 0 1.13803.615658 2.14273 1.551618 2.73146-.57075-.01596-1.10958-.16526-1.580556-.40939v.04038c0 1.59061 1.202386 2.91737 2.798906 3.21784-.29236.07699-.60069.11549-.919.11549-.22451 0-.44403-.01972-.65657-.05822.44404 1.30329 1.73123 2.25254 3.25791 2.27794-1.1934.8807-2.69813 1.4056-4.331571 1.4056-.281388 0-.559782-.015-.832189-.045 1.54364.9295 3.37765 1.4732 5.34636 1.4732 6.41604 0 9.92344-5 9.92344-9.33709 0-.14272-.003-.28545-.009-.42535.6815-.46291 1.2732-1.04038 1.7392-1.69859z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </a>
+       </li>
+       <li class="sm-icons-item">
+        <a class="sm-icons-item-link" href="https://instagram.com/acquiredotcom" target="_blank">
+         <svg fill="none" height="14" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg">
+          <path clip-rule="evenodd" d="m7.00001 0c-1.9011 0-2.13948.0080581-2.8861.0421244-.74507.0339829-1.25392.1523256-1.69918.3253806-.46031.178862-.85068.418215-1.23986.807365-.38915.38918-.628503.77955-.807365 1.23986-.173055.44526-.2913977.95411-.3253806 1.69918-.0340663.74662-.0421244.985-.0421244 2.8861 0 1.90108.0080581 2.13946.0421244 2.88608.0339829.74511.1523256 1.25391.3253806 1.69921.178862.4603.418215.8507.807365 1.2398.38918.3892.77955.6285 1.23986.8074.44526.173.95411.2914 1.69918.3254.74662.034.985.0421 2.8861.0421 1.90108 0 2.13946-.0081 2.88608-.0421.74511-.034 1.25391-.1524 1.69921-.3254.4603-.1789.8507-.4182 1.2398-.8074.3892-.3891.6285-.7795.8074-1.2398.173-.4453.2914-.9541.3254-1.69921.034-.74662.0421-.985.0421-2.88608 0-1.9011-.0081-2.13948-.0421-2.8861-.034-.74507-.1524-1.25392-.3254-1.69918-.1789-.46031-.4182-.85068-.8074-1.23986-.3891-.38915-.7795-.628503-1.2398-.807365-.4453-.173055-.9541-.2913977-1.69921-.3253806-.74662-.0340663-.985-.0421244-2.88608-.0421244zm-.00068 1.26177c1.86906 0 2.09046.00715 2.82858.04082.68249.03112 1.05319.14516 1.29979.24102.3268.12699.5599.27867.8049.52364.2449.24494.3966.47812.5236.80487.0959.24666.2099.6173.241 1.29979.0337.73813.0409.95953.0409 2.82862 0 1.86906-.0072 2.09046-.0409 2.82859-.0311.68248-.1451 1.05318-.241 1.29978-.127.3268-.2787.5599-.5236.8049-.245.2449-.4781.3966-.8049.5236-.2466.0959-.6173.2099-1.29979.241-.73801.0337-.95938.0409-2.82858.0409-1.86923 0-2.09058-.0072-2.82862-.0409-.68249-.0311-1.05314-.1451-1.2998-.241-.32674-.127-.55992-.2787-.80486-.5236-.24494-.245-.39666-.4781-.52364-.8049-.09586-.2466-.2099-.6173-.24102-1.29978-.03368-.73813-.04082-.95953-.04082-2.82859 0-1.86909.00714-2.09049.04082-2.82862.03112-.68249.14516-1.05313.24102-1.29979.12698-.32675.27867-.55993.52364-.80487.24494-.24497.47812-.39665.80486-.52364.24666-.09586.61731-.2099 1.2998-.24102.73812-.03367.95953-.04082 2.82862-.04082zm-3.59227 5.73865c0-1.98526 1.60934-3.5946 3.5946-3.5946 1.98524 0 3.59454 1.60934 3.59454 3.5946 0 1.98524-1.6093 3.59458-3.59454 3.59458-1.98526 0-3.5946-1.60934-3.5946-3.59458zm3.59311 2.3333c-1.28869 0-2.33335-1.04467-2.33335-2.33332 0-1.28869 1.04466-2.33335 2.33335-2.33335 1.28866 0 2.33332 1.04466 2.33332 2.33335 0 1.28865-1.04466 2.33332-2.33332 2.33332zm3.73633-5.22794c.4639 0 .84-.37606.84-.83998 0-.46393-.3761-.84002-.84-.84002s-.84002.37609-.84002.84002c0 .46392.37612.83998.84002.83998z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </a>
+       </li>
+       <li class="sm-icons-item">
+        <a class="sm-icons-item-link" href="https://facebook.com/acquiredotcom" target="_blank">
+         <svg fill="none" height="14" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg">
+          <path class="sm-icons-item-link-image-path" clip-rule="evenodd" d="m7.47785 14h-6.705157c-.426872 0-.772693-.346-.772693-.7727v-12.454614c0-.426813.345876-.772686.772693-.772686h12.454707c.4267 0 .7726.345873.7726.772686v12.454614c0 .4267-.346.7727-.7726.7727h-3.5676v-5.42157h1.8198l.2725-2.11288h-2.0923v-1.34895c0-.61172.16987-1.0286 1.0471-1.0286l1.1188-.00049v-1.88978c-.1935-.02574-.8576-.08327-1.6303-.08327-1.61316 0-2.71755.98465-2.71755 2.79289v1.5582h-1.82444v2.11288h1.82444z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </a>
+       </li>
+      </ul>
+     </footer>
+    </section>
+   </main>
+   <style>
+    #main{display:none!important}footer.footer{display:none!important}
+   </style>
+  </noscript>
+  <header class="header" id="header">
+   <div class="container header-container">
+    <div class="left-side">
+     <div class="burger-icon hamburger hamburger-tablet">
+      <span class="burger-icon-top">
+      </span>
+      <span class="burger-icon-mid">
+      </span>
+      <span class="burger-icon-bot">
+      </span>
+     </div>
+     <a class="logo" href="/">
+      <img alt="Acquire Logo" src="/assets/img/acquiredotcom-logo.b16269.svg"/>
+     </a>
+     <nav class="pages">
+      <ul class="pages-list">
+       <li class="pages-list-item">
+        <a class="headers-h9 c-smoke" data-id="sellers" href="/sellers/">
+         Sellers
+        </a>
+       </li>
+       <li class="pages-list-item">
+        <a class="headers-h9 c-smoke" data-id="sellers" href="/buyers/">
+         Buyers
+        </a>
+       </li>
+       <li class="pages-list-item">
+        <span class="headers-h9 c-smoke mr-10 pages-list-item__dropdown" data-id="about">
+         Pricing
+        </span>
+        <svg fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M4.5575 5.68359L8 9.16439L11.4425 5.68359L12.5 6.75519L8 11.3152L3.5 6.75519L4.5575 5.68359Z" fill="#1B152A" fill-rule="evenodd">
+         </path>
+        </svg>
+        <div class="pages-list-item__submenu">
+         <div class="nav-submenu">
+          <div class="nav-submenu__inner">
+           <h3 class="nav-submenu__title headers-h3">
+            Pricing
+           </h3>
+           <div class="nav-submenu__items">
+            <div class="nav-submenu__item-wrap">
+             <a class="submenu-item" href="/seller-pricing/" target="_self">
+              <div class="submenu-item__icon">
+               <img alt="icon" src="/assets/img/list-startup.74a6da.svg"/>
+              </div>
+              <div class="submenu-item__copy">
+               <p class="mb-8 headers-h8 c-twilight">
+                Sellers
+               </p>
+               <p class="mb-8 special-caption-1-regular c-smoke">
+                One simple plan to help you get Acquire'd.
+               </p>
+               <p class="special-caption-1-italic c-ash">
+                List and sell your business with expert support.
+               </p>
+              </div>
+             </a>
+            </div>
+            <div class="nav-submenu__item-wrap">
+             <a class="submenu-item" href="/pricing/" target="_self">
+              <div class="submenu-item__icon">
+               <img alt="icon" src="/assets/img/star-outlined.b17fb1.svg"/>
+              </div>
+              <div class="submenu-item__copy">
+               <p class="mb-8 headers-h8 c-twilight">
+                Buyers
+               </p>
+               <p class="mb-8 special-caption-1-regular c-smoke">
+                View buyer plans that connect you with founders and their startups.
+               </p>
+               <p class="special-caption-1-italic c-ash">
+                Connect with founders to pursue an acquisition.
+               </p>
+              </div>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </li>
+       <li class="pages-list-item">
+        <span class="headers-h9 c-smoke mr-10 pages-list-item__dropdown" data-id="about">
+         Resources
+        </span>
+        <svg fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+         <path clip-rule="evenodd" d="M4.5575 5.68359L8 9.16439L11.4425 5.68359L12.5 6.75519L8 11.3152L3.5 6.75519L4.5575 5.68359Z" fill="#1B152A" fill-rule="evenodd">
+         </path>
+        </svg>
+        <div class="pages-list-item__submenu">
+         <div class="nav-submenu">
+          <div class="nav-submenu__inner">
+           <h3 class="nav-submenu__title headers-h3">
+            Resources
+           </h3>
+           <div class="nav-submenu__items">
+            <div class="nav-submenu__item-wrap">
+             <a class="submenu-item" href="https://help.acquire.com/" target="_blank">
+              <div class="submenu-item__icon">
+               <img alt="icon" src="/assets/img/help-center-icon.a0ffa6.svg"/>
+              </div>
+              <div class="submenu-item__copy">
+               <p class="mb-8 headers-h8 c-twilight">
+                Help center
+               </p>
+               <p class="mb-8 special-caption-1-regular c-smoke">
+                How to use Acquire.com and other questions answered.
+               </p>
+               <p class="special-caption-1-italic c-ash">
+                Get the most out of the marketplace.
+               </p>
+              </div>
+             </a>
+            </div>
+            <div class="nav-submenu__item-wrap">
+             <a class="submenu-item" href="https://blog.acquire.com/" target="_blank">
+              <div class="submenu-item__icon">
+               <img alt="icon" src="/assets/img/blog-icon.c40a0c.svg"/>
+              </div>
+              <div class="submenu-item__copy">
+               <p class="mb-8 headers-h8 c-twilight">
+                Blog
+               </p>
+               <p class="mb-8 special-caption-1-regular c-smoke">
+                Learn how to buy, grow, and sell businesses.
+               </p>
+               <p class="special-caption-1-italic c-ash">
+                Become an acquisition expert in no time.
+               </p>
+              </div>
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </nav>
+    </div>
+    <div class="account-links">
+     <a class="special-button-2 c-smoke account-links-login" href="https://app.acquire.com/signin">
+      Log in
+     </a>
+     <a class="special-button-2 c-smoke account-links-apply button button-transparent" href="https://app.acquire.com/signup">
+      <div class="special-button-2 c-smoke">
+       Join now
+      </div>
+      <div class="button-arrow">
+       <img alt="arrow right" class="lazy arrow-right img-black" data-load-priority="0" data-src="/assets/img/arrow-right-dark.11c40f.svg" src="#"/>
+      </div>
+     </a>
+    </div>
+    <div class="burger-icon hamburger hamburger-mobile">
+     <span class="burger-icon-top">
+     </span>
+     <span class="burger-icon-mid">
+     </span>
+     <span class="burger-icon-bot">
+     </span>
+    </div>
+   </div>
+   <div class="container legal-container hide">
+    <a class="back-button-link" href="/legal/">
+     <div class="back-button">
+      <img alt="arrow right" class="back" data-load-priority="0" src="/assets/img/arrow-right-dark.11c40f.svg"/>
+     </div>
+    </a>
+    <div class="legal-container-header">
+     <div class="headers-h3-alt">
+     </div>
+     <div class="subtitle">
+      <div class="special-caption-1-regular c-topaz">
+      </div>
+      <div class="special-caption-1-medium c-twilight">
+      </div>
+     </div>
+    </div>
+    <div style="flex:1">
+    </div>
+   </div>
+  </header>
+  <main class="home" data-page-id="home" id="main">
+   <section class="section hero-section hero-section--home">
+    <div class="container hero-section-container">
+     <div class="hero-section-text-block">
+      <span class="headers-h8 hero-section-label">
+       1k+ successful deals
+      </span>
+      <h1 class="headers-h1 hero-section-title">
+       The best online marketplace to buy and sell startups.
+      </h1>
+      <p class="body-p2-regular hero-section-subtitle">
+       Join 200k+ entrepreneurs closing life-changing deals. Buy and sell startups in as little as 30 days, supported by the best advisors and tech.
+      </p>
+      <div class="hero-section-buttons">
+       <a class="button" href="https://app.acquire.com/signup" onclick="eventTrack()">
+        <span class="special-button-1 c-white no-wrap">
+         View Listings
+        </span>
+        <div class="button-arrow">
+         <img alt="arrow right" class="lazy arrow-right" data-load-priority="1" data-src="/assets/img/arrow-right-button.a68abe.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+        </div>
+       </a>
+       <a class="button button-video play-button button-transparent">
+        <img alt="play button" class="lazy play-button-icon" data-load-priority="1" data-src="/assets/img/play-button-dark.80efaa.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif">
+         <span class="special-button-1 c-twilight no-wrap">
+          Watch video
+         </span>
+        </img>
+       </a>
+      </div>
+     </div>
+     <div class="hero-section-image-block">
+      <div class="bodymovin__wrap" data-bodymovin-path="/assets/bodymovin/home/display_1/1_dispay_home.json" data-load-priority="1">
+      </div>
+     </div>
+     <ul class="press-list press-list--home">
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press1.87a2d3.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press2.1278c8.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press3.c6b618.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press4.95499c.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press5.6c0d8d.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press6.6ee413.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+      <li class="press-list-item">
+       <img alt="press" class="press-logo lazy" data-load-priority="0" data-src="/assets/img/press7.3e9fd8.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </li>
+     </ul>
+    </div>
+    <div class="video-modal close-modal">
+     <div class="video-container">
+      <div data-plyr-embed-id="" data-plyr-provider="youtube" id="player">
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section the-only-section">
+    <div class="container the-only-section-container">
+     <h2 class="headers-h1 center-text the-only-section-title">
+      The world’s number one startup acquisition marketplace
+     </h2>
+     <div class="the-only-section-image-wrap">
+      <div class="the-only-section-image bodymovin__wrap" data-bodymovin-path="/assets/bodymovin/home/display_2/home_2_display.json" data-load-priority="1">
+      </div>
+     </div>
+     <ul class="the-only-texts-list">
+      <li class="the-only-text-item the-only-text-item--home text-item-anim">
+       <img alt="Create the perfect listing with expert help from our team." class="xxs-visible the-only-text-item-image" src="/assets/img/only-buyers-card@2x.9b4c8c.png" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif">
+        <h3 class="headers-h3 the-only-text-item-title">
+         Sellers
+        </h3>
+        <p class="body-p2-regular">
+         Create the perfect listing with expert help from our team.
+        </p>
+       </img>
+      </li>
+      <li class="the-only-text-item the-only-text-item--home text-item-anim">
+       <img alt="We connect buyers and sellers, starting the right conversations that lead to an acquisition." class="xxs-visible the-only-text-item-image" src="/assets/img/only-platform-card2.fa56dc.png" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif">
+        <h3 class="headers-h3 the-only-text-item-title">
+         Platform
+        </h3>
+        <p class="body-p2-regular">
+         We connect buyers and sellers, starting the right conversations that lead to an acquisition.
+        </p>
+       </img>
+      </li>
+      <li class="the-only-text-item the-only-text-item--home text-item-anim">
+       <img alt="Find your ideal startup and make an offer in minutes." class="xxs-visible the-only-text-item-image" src="/assets/img/only-sellers-card@2x.90e83d.png" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif">
+        <h3 class="headers-h3 the-only-text-item-title">
+         Buyers
+        </h3>
+        <p class="body-p2-regular">
+         Find your ideal startup and make an offer in minutes.
+        </p>
+       </img>
+      </li>
+     </ul>
+    </div>
+   </section>
+   <section class="section slider-section slider-section--right slider-section--right--home">
+    <div class="container slider-section-container">
+     <div class="lottie-slider-container theme--hawkes-blue">
+      <div class="lottie-slider" data-count-slides="1">
+       <div class="slide-item">
+        <div class="slide-image bodymovin__wrap" data-bodymovin-path="/assets/bodymovin/home/display_7/card_1_dis3_ HOME 2.json" data-load-priority="2">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="slider-section-text-block">
+      <p class="headers-h2 mb-14 slider-section-title">
+       Discover your dream startup
+      </p>
+      <p class="body-p2-regular mb-30 slider-section-subtitle">
+       Search 1,000s of vetted startups or get matched to the right deal. Project returns with real-time metrics. Make an offer in minutes.
+      </p>
+      <div class="benefit-list">
+       <div class="benefit-list-item">
+        <p class="headers-h7">
+         Evaluate web, customer, and financial metrics
+        </p>
+       </div>
+       <div class="benefit-list-item">
+        <p class="headers-h7">
+         Build and send LOIs and APAs in minutes
+        </p>
+       </div>
+       <div class="benefit-list-item">
+        <p class="headers-h7">
+         Get help to acquire with Boopos financing
+        </p>
+       </div>
+      </div>
+      <div class="btn-wrap">
+       <a class="button" href="/buyers/">
+        <div class="special-button-2 c-white">
+         Tell me more
+        </div>
+        <div class="button-arrow">
+         <img alt="arrow right" class="lazy arrow-right" data-load-priority="1" data-src="/assets/img/arrow-right-button.a68abe.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section slider-section slider-section--last">
+    <div class="container slider-section-container">
+     <div class="lottie-slider-container theme--green">
+      <div class="lottie-slider" data-count-slides="1">
+       <div class="slide-item">
+        <div class="slide-image bodymovin__wrap" data-bodymovin-path="/assets/bodymovin/home/display_4/card_1_dis_4_homepage.json" data-load-priority="2">
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="slider-section-text-block">
+      <p class="headers-h2 mb-14 slider-section-title">
+       Sell quickly, easily, and for the highest price
+      </p>
+      <p class="body-p2-regular mb-30 slider-section-subtitle">
+       List your startup in front of 200k+ buyers. Get expert support from listing to closing. Start conversations that lead to acquisition in as little as 30 days.
+      </p>
+      <div class="benefit-list">
+       <div class="benefit-list-item">
+        <p class="headers-h7">
+         Get expert help to create the perfect listing
+        </p>
+       </div>
+       <div class="benefit-list-item">
+        <p class="headers-h7">
+         Field offers from qualified buyers with verified funds
+        </p>
+       </div>
+       <div class="benefit-list-item">
+        <p class="headers-h7">
+         Close safely for free with Escrow.com
+        </p>
+       </div>
+      </div>
+      <div class="btn-wrap">
+       <a class="button" href="/sellers/">
+        <div class="special-button-2 c-white">
+         Tell me more
+        </div>
+        <div class="button-arrow">
+         <img alt="arrow right" class="lazy arrow-right" data-load-priority="1" data-src="/assets/img/arrow-right-button.a68abe.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+        </div>
+       </a>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="testimonial-quote-section-v2 contrast mobile-medium-indent">
+    <div class="testimonial-quote-section-container">
+     <h2 class="headers-h1 center-text testimonial-quote-section-title">
+      What do founders and buyers say about Acquire.com?
+     </h2>
+     <div class="quotes-slider-container">
+      <div class="quotes-slider-content">
+       <div class="active-quote-container">
+        <div class="quote-container">
+         <img alt="quotemark" class="lazy quotemark" data-load-priority="0" data-src="/assets/img/quotemark.e8368a.svg" src="#"/>
+         <blockquote class="text-block">
+          <p class="customer-quote headers-h6 with-link">
+           You (Andrew) built an awesome platform and have corralled
+           <span class="quote-accent">
+            an amazing buyer network
+           </span>
+           it seems of real aggregators, small family offices, VCs, individuals looking to diversify their income, it seems that there’s a growing list of people that are interested in consuming businesses!
+          </p>
+          <a class="more headers-h9" href="https://blog.acquire.com/startup-acquisition-episode-31" target="_blank">
+           Listen to more
+           <img alt="play" class="lazy" data-load-priority="1" data-src="/assets/img/play-testimonial.bc53e2.svg" src="#"/>
+          </a>
+          <span class="author-position body-p2-regular">
+           <span class="headers-h5 name">
+            Ramzey Nassar
+           </span>
+           <span class="achievement">
+            Sold Soil &amp; Clay in 2022
+           </span>
+          </span>
+          <span class="author-platform special-caption-1-italic">
+           eCommerce
+          </span>
+         </blockquote>
+        </div>
+        <div class="quote-container">
+         <img alt="quotemark" class="lazy quotemark" data-load-priority="0" data-src="/assets/img/quotemark.e8368a.svg" src="#"/>
+         <blockquote class="text-block">
+          <p class="customer-quote headers-h6">
+           My
+           <span class="quote-accent">
+            favorite site to find tools and software companies
+           </span>
+           on is Acquire.com. It's like the best. I like the combination of quality and also responsiveness from founders and like you've done a really good job curating.
+          </p>
+          <span class="author-position body-p2-regular">
+           <span class="headers-h5 name">
+            Tara Reed
+           </span>
+           <span class="achievement">
+            CEO of Apps Without Code
+           </span>
+          </span>
+          <span class="author-platform special-caption-1-italic">
+          </span>
+         </blockquote>
+        </div>
+        <div class="quote-container">
+         <img alt="quotemark" class="lazy quotemark" data-load-priority="0" data-src="/assets/img/quotemark.e8368a.svg" src="#"/>
+         <blockquote class="text-block">
+          <p class="customer-quote headers-h6">
+           Acquire.com allows me to
+           <span class="quote-accent">
+            easily meet and connect  with startup founders
+           </span>
+           looking to sell their business. Through Acquire.com, I was able to acquire a company that fit perfectly within the Awesome Motive portfolio. I highly recommend Acquire.com to anyone looking to buy or sell a SaaS business.
+          </p>
+          <span class="author-position body-p2-regular">
+           <span class="headers-h5 name">
+            Syed Balkhi
+           </span>
+           <span class="achievement">
+            Founder &amp; CEO of Awesome Motive
+           </span>
+          </span>
+          <span class="author-platform special-caption-1-italic">
+          </span>
+         </blockquote>
+        </div>
+        <div class="quote-container">
+         <img alt="quotemark" class="lazy quotemark" data-load-priority="0" data-src="/assets/img/quotemark.e8368a.svg" src="#"/>
+         <blockquote class="text-block">
+          <p class="customer-quote headers-h6 with-link">
+           I think we got probably 15 buyers within the first three days that had messaged me and were interested and then over the course of the next week, I think we ended up having another 20 or 30. So I
+           <span class="quote-accent">
+            ended up with like 40 people who reached out
+           </span>
+           ... Within a week and a half we had an LOI in hand.
+          </p>
+          <a class="more headers-h9" href="https://blog.acquire.com/startup-acquisition-episode-13" target="_blank">
+           Listen to more
+           <img alt="play" class="lazy" data-load-priority="1" data-src="/assets/img/play-testimonial.bc53e2.svg" src="#"/>
+          </a>
+          <span class="author-position body-p2-regular">
+           <span class="headers-h5 name">
+            Derek Homann
+           </span>
+           <span class="achievement">
+            Sold Median in 2021
+           </span>
+          </span>
+          <span class="author-platform special-caption-1-italic">
+           SaaS
+          </span>
+         </blockquote>
+        </div>
+        <div class="quote-container">
+         <img alt="quotemark" class="lazy quotemark" data-load-priority="0" data-src="/assets/img/quotemark.e8368a.svg" src="#"/>
+         <blockquote class="text-block">
+          <p class="customer-quote headers-h6">
+           Circle Square Capital is a private equity fund focused on creating value and growth in lower middle market buyouts. Acquire.com helps us
+           <span class="quote-accent">
+            meet quality startups without any of the headaches
+           </span>
+           .
+          </p>
+          <span class="author-position body-p2-regular">
+           <span class="headers-h5 name">
+            Alan Ezeir
+           </span>
+           <span class="achievement">
+            Founder of Circle Square Capital
+           </span>
+          </span>
+          <span class="author-platform special-caption-1-italic">
+          </span>
+         </blockquote>
+        </div>
+       </div>
+       <div class="quotes">
+        <div class="quotes-list">
+         <div class="quote-item-container">
+          <div class="quote-item">
+           <div class="author-wrap testimonial-author">
+            <div class="author-block">
+             <div class="avatar-wrap">
+              <img alt="testimonial author" class="lazy" data-load-priority="3" data-src="/assets/img/testimonials-ramzey-nassar.992af6.png" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+             </div>
+             <div class="author-text-block">
+              <span class="author-headline headers-h6">
+               “An amazing buyer network”
+              </span>
+              <span class="author-position body-p3-regular">
+               Sold Soil &amp; Clay in 2022
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="quote-item-container">
+          <div class="quote-item">
+           <div class="author-wrap testimonial-author">
+            <div class="author-block">
+             <div class="avatar-wrap">
+              <img alt="testimonial author" class="lazy" data-load-priority="3" data-src="/assets/img/testimonials-tara-reed.b69333.png" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+             </div>
+             <div class="author-text-block">
+              <span class="author-headline headers-h6">
+               “Favorite site to find tools and software companies”
+              </span>
+              <span class="author-position body-p3-regular">
+               CEO of Apps Without Code
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="quote-item-container">
+          <div class="quote-item">
+           <div class="author-wrap testimonial-author">
+            <div class="author-block">
+             <div class="avatar-wrap">
+              <img alt="testimonial author" class="lazy" data-load-priority="3" data-src="/assets/img/testimonials-syed-balkhi.aa79f5.png" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+             </div>
+             <div class="author-text-block">
+              <span class="author-headline headers-h6">
+               “Easily meet and connect  with startup founders”
+              </span>
+              <span class="author-position body-p3-regular">
+               Founder &amp; CEO of Awesome Motive
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="quote-item-container">
+          <div class="quote-item">
+           <div class="author-wrap testimonial-author">
+            <div class="author-block">
+             <div class="avatar-wrap">
+              <img alt="testimonial author" class="lazy" data-load-priority="3" data-src="/assets/img/testimonials-derek-homann.b34f81.png" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+             </div>
+             <div class="author-text-block">
+              <span class="author-headline headers-h6">
+               “Ended up with 40 people who reached out”
+              </span>
+              <span class="author-position body-p3-regular">
+               Sold Median in 2021
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="quote-item-container">
+          <div class="quote-item">
+           <div class="author-wrap testimonial-author">
+            <div class="author-block">
+             <div class="avatar-wrap">
+              <img alt="testimonial author" class="lazy" data-load-priority="3" data-src="/assets/img/testimonials-alan-ezeir.f4cee9.png" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+             </div>
+             <div class="author-text-block">
+              <span class="author-headline headers-h6 tablet-compress">
+               “Meet quality startups without any of the headaches”
+              </span>
+              <span class="author-position body-p3-regular">
+               Founder of Circle Square Capital
+              </span>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="quotes-slider-controls">
+       <div class="slider-dots-box">
+       </div>
+      </div>
+     </div>
+    </div>
+   </section>
+   <section class="section join-section hawkes-blue">
+    <div class="container join-section-container">
+     <p class="headers-h1 join-section-title">
+      Join over 200k+ founders and buyers already doing business on Acquire.com
+     </p>
+     <a class="button" href="https://app.acquire.com/signup">
+      <div class="special-button-1 c-white">
+       Join now
+      </div>
+      <div class="button-arrow">
+       <img alt="arrow right" class="lazy arrow-right" data-load-priority="4" data-src="/assets/img/arrow-right-button.a68abe.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </div>
+     </a>
+    </div>
+   </section>
+  </main>
+  <footer class="footer">
+   <div class="container footer-container">
+    <ul class="footer-top">
+     <li class="footer-links-column">
+      <h5 class="headers-h7 mb-24">
+       Sellers
+      </h5>
+      <ul class="links-list">
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/sellers">
+         List Your Startup
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/seller-pricing/">
+         Pricing
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="footer-links-column">
+      <h5 class="headers-h7 mb-24">
+       Buyers
+      </h5>
+      <ul class="links-list">
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/buyers/">
+         Browse Startups
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/pricing/">
+         Pricing
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/alerts/">
+         Instant Slack Alerts
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="footer-links-column">
+      <h5 class="headers-h7 mb-24">
+       Company
+      </h5>
+      <ul class="links-list">
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/about/">
+         About us
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/testimonials/">
+         Testimonials
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="/legal/">
+         Legal
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="footer-links-column">
+      <h5 class="headers-h7 mb-24">
+       Resources
+      </h5>
+      <ul class="links-list">
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="https://help.acquire.com/" target="_blank">
+         Help Center
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="https://blog.acquire.com/" target="_blank">
+         Blog
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="footer-links-column">
+      <h5 class="headers-h7 mb-24">
+       Contact us
+      </h5>
+      <ul class="links-list">
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="tel:+18009948014">
+         1-800-994-8014
+        </a>
+       </li>
+       <li class="links-list-item">
+        <a class="special-button-2 links-list-item-link" href="mailto:support@acquire.com">
+         support@acquire.com
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <div class="footer-bottom">
+     <div>
+      <a class="logo logo--footer" href="/">
+       <img alt="Acquire Logo" class="lazy" data-load-priority="4" data-src="/assets/img/acquiredotcom-logo.b16269.svg" src="#" style="color:#25224a;font-size:20px;font-family:graphik-regular,sans-serif"/>
+      </a>
+      <span class="body-p3-regular footer-copy c-topaz">
+       <span>
+        2023
+       </span>
+       Acquire.com, Inc ™
+      </span>
+      <span class="body-p3-regular footer-copy c-topaz">
+       Acquire.com Brokerage Services, Inc., CA DRE # 01862195
+      </span>
+     </div>
+     <ul class="sm-icons">
+      <li class="sm-icons-item">
+       <a class="sm-icons-item-link" href="https://twitter.com/acquiredotcom" target="_blank">
+        <svg fill="none" height="13" viewbox="0 0 17 13" width="17" xmlns="http://www.w3.org/2000/svg">
+         <path class="sm-icons-item-link-image-path" clip-rule="evenodd" d="m17 1.53897c-.6246.26103-1.2972.43756-2.0026.51643.7204-.40563 1.2732-1.04883 1.5336-1.815024-.6745.375586-1.4199.648826-2.2162.795304-.6346-.637558-1.5416-1.03568-2.5454-1.03568-1.92483 0-3.48643 1.46948-3.48643 3.28169 0 .25728.02994.50704.08981.74742-2.89869-.13709-5.4681-1.44226-7.18936-3.430049-.300342.486389-.471968 1.050709-.471968 1.651639 0 1.13803.615658 2.14273 1.551618 2.73146-.57075-.01596-1.10958-.16526-1.580556-.40939v.04038c0 1.59061 1.202386 2.91737 2.798906 3.21784-.29236.07699-.60069.11549-.919.11549-.22451 0-.44403-.01972-.65657-.05822.44404 1.30329 1.73123 2.25254 3.25791 2.27794-1.1934.8807-2.69813 1.4056-4.331571 1.4056-.281388 0-.559782-.015-.832189-.045 1.54364.9295 3.37765 1.4732 5.34636 1.4732 6.41604 0 9.92344-5 9.92344-9.33709 0-.14272-.003-.28545-.009-.42535.6815-.46291 1.2732-1.04038 1.7392-1.69859z" fill-rule="evenodd">
+         </path>
+        </svg>
+       </a>
+      </li>
+      <li class="sm-icons-item">
+       <a class="sm-icons-item-link" href="https://www.linkedin.com/company/acquiredotcom" target="_blank">
+        <svg fill="none" height="14" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg">
+         <path class="sm-icons-item-link-image-path" d="m11.0833 0h-8.16663c-1.61059 0-2.91667 1.30608-2.91667 2.91667v8.16663c0 1.6106 1.30608 2.9167 2.91667 2.9167h8.16663c1.6112 0 2.9167-1.3061 2.9167-2.9167v-8.16663c0-1.61059-1.3055-2.91667-2.9167-2.91667zm-6.41663 11.0833h-1.75v-6.41663h1.75zm-.875-7.1563c-.5635 0-1.02084-.46083-1.02084-1.029s.45734-1.029 1.02084-1.029 1.02083.46083 1.02083 1.029-.45675 1.029-1.02083 1.029zm7.87503 7.1563h-1.75003v-3.26897c0-1.96466-2.33334-1.81591-2.33334 0v3.26897h-1.75v-6.41663h1.75v1.02958c.81434-1.5085 4.08337-1.61992 4.08337 1.44433z" fill="#464154">
+         </path>
+        </svg>
+       </a>
+      </li>
+      <li class="sm-icons-item">
+       <a class="sm-icons-item-link" href="https://facebook.com/acquiredotcom" target="_blank">
+        <svg fill="none" height="14" viewbox="0 0 14 14" width="14" xmlns="http://www.w3.org/2000/svg">
+         <path class="sm-icons-item-link-image-path" clip-rule="evenodd" d="m7.47785 14h-6.705157c-.426872 0-.772693-.346-.772693-.7727v-12.454614c0-.426813.345876-.772686.772693-.772686h12.454707c.4267 0 .7726.345873.7726.772686v12.454614c0 .4267-.346.7727-.7726.7727h-3.5676v-5.42157h1.8198l.2725-2.11288h-2.0923v-1.34895c0-.61172.16987-1.0286 1.0471-1.0286l1.1188-.00049v-1.88978c-.1935-.02574-.8576-.08327-1.6303-.08327-1.61316 0-2.71755.98465-2.71755 2.79289v1.5582h-1.82444v2.11288h1.82444z" fill-rule="evenodd">
+         </path>
+        </svg>
+       </a>
+      </li>
+      <li class="sm-icons-item">
+       <a class="sm-icons-item-link" href="https://www.youtube.com/@acquiredotcom" target="_blank">
+        <svg fill="none" height="16" viewbox="0 0 24 16" width="24" xmlns="http://www.w3.org/2000/svg">
+         <path d="M22.9022 2.84309C22.6405 1.91926 21.8694 1.19168 20.8903 0.944766C19.1157 0.496094 11.9999 0.496094 11.9999 0.496094C11.9999 0.496094 4.88403 0.496094 3.1094 0.944766C2.13036 1.19172 1.35928 1.91926 1.09757 2.84309C0.62207 4.51758 0.62207 8.01125 0.62207 8.01125C0.62207 8.01125 0.62207 11.5049 1.09757 13.1794C1.35928 14.1032 2.13036 14.8005 3.1094 15.0474C4.88403 15.4961 11.9999 15.4961 11.9999 15.4961C11.9999 15.4961 19.1157 15.4961 20.8903 15.0474C21.8694 14.8005 22.6405 14.1032 22.9022 13.1794C23.3777 11.5049 23.3777 8.01125 23.3777 8.01125C23.3777 8.01125 23.3777 4.51758 22.9022 2.84309ZM9.67257 11.1832V4.83926L15.62 8.01133L9.67257 11.1832Z" fill="#464154">
+         </path>
+        </svg>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </footer>
+  <div class="mobile-menu" id="mobile-menu">
+   <div class="container mobile-menu-container">
+    <div class="mobile-menu-header">
+     <a class="logo" href="/">
+      <img alt="Acquire Logo" src="/assets/img/acquiredotcom-logo.b16269.svg"/>
+     </a>
+     <div class="mobile-menu-close hamburger">
+      <img alt="Close" class="lazy mobile-menu-close-icon" data-load-priority="2" data-src="/assets/img/close.8aca4b.svg" src="#" title="Close menu"/>
+     </div>
+    </div>
+    <ul class="mobile-menu-list" id="mobile-menu-list">
+     <li class="mobile-menu-item menu-item-anim">
+      <a class="headers-h3" href="/sellers/">
+       Sellers
+      </a>
+     </li>
+     <li class="mobile-menu-item menu-item-anim">
+      <a class="headers-h3" href="/buyers/">
+       Buyers
+      </a>
+     </li>
+     <li class="mobile-menu-item menu-item-anim">
+      <div class="mobile-menu-item__link-wrap">
+       <span class="headers-h3 mobile-menu-item__link leave-link-js">
+        Pricing
+       </span>
+       <svg fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M4.5575 5.68359L8 9.16439L11.4425 5.68359L12.5 6.75519L8 11.3152L3.5 6.75519L4.5575 5.68359Z" fill="#1B152A" fill-rule="evenodd">
+        </path>
+       </svg>
+      </div>
+      <div class="mobile-menu-item__content">
+       <div class="nav-submenu">
+        <div class="nav-submenu__inner">
+         <h3 class="nav-submenu__title headers-h3">
+          Pricing
+         </h3>
+         <div class="nav-submenu__items">
+          <div class="nav-submenu__item-wrap">
+           <a class="submenu-item" href="/seller-pricing/" target="_self">
+            <div class="submenu-item__icon">
+             <img alt="icon" src="/assets/img/list-startup.74a6da.svg"/>
+            </div>
+            <div class="submenu-item__copy">
+             <p class="mb-8 headers-h8 c-twilight">
+              Sellers
+             </p>
+             <p class="mb-8 special-caption-1-regular c-smoke">
+              One simple plan to help you get Acquire'd.
+             </p>
+             <p class="special-caption-1-italic c-ash">
+              List and sell your business with expert support.
+             </p>
+            </div>
+           </a>
+          </div>
+          <div class="nav-submenu__item-wrap">
+           <a class="submenu-item" href="/pricing/" target="_self">
+            <div class="submenu-item__icon">
+             <img alt="icon" src="/assets/img/star-outlined.b17fb1.svg"/>
+            </div>
+            <div class="submenu-item__copy">
+             <p class="mb-8 headers-h8 c-twilight">
+              Buyers
+             </p>
+             <p class="mb-8 special-caption-1-regular c-smoke">
+              View buyer plans that connect you with founders and their startups.
+             </p>
+             <p class="special-caption-1-italic c-ash">
+              Connect with founders to pursue an acquisition.
+             </p>
+            </div>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </li>
+     <li class="mobile-menu-item menu-item-anim">
+      <div class="mobile-menu-item__link-wrap">
+       <span class="headers-h3 mobile-menu-item__link leave-link-js">
+        Resources
+       </span>
+       <svg fill="none" height="16" viewbox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <path clip-rule="evenodd" d="M4.5575 5.68359L8 9.16439L11.4425 5.68359L12.5 6.75519L8 11.3152L3.5 6.75519L4.5575 5.68359Z" fill="#1B152A" fill-rule="evenodd">
+        </path>
+       </svg>
+      </div>
+      <div class="mobile-menu-item__content">
+       <div class="nav-submenu">
+        <div class="nav-submenu__inner">
+         <h3 class="nav-submenu__title headers-h3">
+          Resources
+         </h3>
+         <div class="nav-submenu__items">
+          <div class="nav-submenu__item-wrap">
+           <a class="submenu-item" href="https://help.acquire.com/" target="_blank">
+            <div class="submenu-item__icon">
+             <img alt="icon" src="/assets/img/help-center-icon.a0ffa6.svg"/>
+            </div>
+            <div class="submenu-item__copy">
+             <p class="mb-8 headers-h8 c-twilight">
+              Help center
+             </p>
+             <p class="mb-8 special-caption-1-regular c-smoke">
+              How to use Acquire.com and other questions answered.
+             </p>
+             <p class="special-caption-1-italic c-ash">
+              Get the most out of the marketplace.
+             </p>
+            </div>
+           </a>
+          </div>
+          <div class="nav-submenu__item-wrap">
+           <a class="submenu-item" href="https://blog.acquire.com/" target="_blank">
+            <div class="submenu-item__icon">
+             <img alt="icon" src="/assets/img/blog-icon.c40a0c.svg"/>
+            </div>
+            <div class="submenu-item__copy">
+             <p class="mb-8 headers-h8 c-twilight">
+              Blog
+             </p>
+             <p class="mb-8 special-caption-1-regular c-smoke">
+              Learn how to buy, grow, and sell businesses.
+             </p>
+             <p class="special-caption-1-italic c-ash">
+              Become an acquisition expert in no time.
+             </p>
+            </div>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </li>
+    </ul>
+    <div class="account-links">
+     <a class="headers-h7 mb-24 menu-item-anim" href="https://app.acquire.com/signin">
+      Login
+     </a>
+     <a class="headers-h7 menu-item-anim" href="https://app.acquire.com/signup">
+      <span class="headers-h7 mr-13">
+       Join Now
+      </span>
+      <img alt="arrow right" class="lazy arrow-right" data-load-priority="0" data-src="/assets/img/arrow-right.e0ba7f.svg" src="#"/>
+     </a>
+    </div>
+   </div>
+   <div class="mobile-menu-bg" id="mobile-menu-bg">
+   </div>
+  </div>
+  <span id="css-variable-test">
+  </span>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet"/>
+  <link href="/fc2317.0.css" rel="stylesheet"/>
+  <link href="/c29c06.1.css" rel="stylesheet"/>
+  <script src="/polyfills.127791.js">
+  </script>
+  <script src="/e5f7c1.0.js">
+  </script>
+  <script src="/a28cf0.1.js">
+  </script>
+  <script src="/home.127791.js">
+  </script>
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-145902050-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-145902050-1');
+  </script>
+  <script>
+   function eventTrack() {
+      try { __adroll.record_user({"adroll_segments": "5aae0bc4"}); }
+        catch(err) { console.log(err)}
+    }
+  </script>
+ </body>
+</html>
